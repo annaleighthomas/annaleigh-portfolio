@@ -5,7 +5,7 @@ import {
   Route, 
   Redirect 
 } from 'react-router-dom';
-import Homepage from '../homepage/Homepage';
+import Homepage from '../homepage/HomePage';
 
 
 export default function App() {
